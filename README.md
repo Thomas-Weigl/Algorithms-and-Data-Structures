@@ -280,13 +280,13 @@ The programs are written in **C++** and can be compiled using `g++`.
 Example compilation:
 
 ```
-g++ -std=c++17 program.cpp -o program
+g++ program.cpp -o program
 ```
 
 Example:
 
 ```
-g++ -std=c++17 hashtest.cxx -o hashtest
+g++ hashtest.cxx -o hashtest
 ```
 
 ---
@@ -337,14 +337,3 @@ Command explanation:
 | d | dump table |
 | q | quit |
 
----
-
-# Purpose of the Repository
-
-This repository demonstrates the implementation of classic algorithms and data structures commonly taught in computer science courses.
-
-It serves as:
-
-- learning material
-- algorithm reference
-- implementation examples in C++
