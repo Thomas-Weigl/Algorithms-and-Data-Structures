@@ -5,6 +5,9 @@ The implementations were developed as part of coursework and exercises in algori
 
 The goal of this repository is to demonstrate the practical implementation of classical algorithms used in computer science, including graph algorithms, hash tables, and priority queue structures.
 
+It was created as part of the “Algorithms 2” course. The basic structure and test cases were provided by the instructor. 
+The implementation of the algorithms and the completion of the tasks were done independently.
+
 ---
 
 # Repository Structure
